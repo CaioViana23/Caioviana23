@@ -15,7 +15,7 @@ Pretendo ser Full stack
 </div>
 
 <div>
-  <a href="https://www.youtube.com/channel/UCxSs5l55y33e-YcvfIDn_nw"> 
+  <a href="https://www.youtube.com/channel/UCxSs5l55y33e-YcvfIDn_nw" target="_blank">
     <src img="https://upload.wikimedia.org/wikipedia/commons/7/72/YouTube_social_white_square_%282017%29.svg" style=" width: 20px; height: 20px;"/>
     </a>
 </div>
