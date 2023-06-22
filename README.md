@@ -19,9 +19,3 @@ Pretendo ser Full stack
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/YouTube_social_white_square_%282017%29.svg" style=" width: 20px; height: 20px;"/>
     </a>
 </div>
-
-<div>
- <a href="https://chat.openai.com/" target="_blank" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" style=" width: 20px; height 20px;">
-</a>
-</div>
