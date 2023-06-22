@@ -7,7 +7,8 @@ Pretendo ser Full stack
 
 <div>
   <a href="https://www.instagram.com/cring0lao/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" >
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" 
+      style=<"width: 100px; height: 100px;">
+  a>
 </div>
 
